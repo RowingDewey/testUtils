@@ -1,14 +1,42 @@
 package cn.wangzh.test;
 
-/**
- * @author wangzhuohui
- * @description ceshi
- * @create 2018-06-25 14:57
- */
-public class Test
+public class test extends A
 {
+    //int i = -6;
+    
     public static void main(String[] args)
     {
-        System.out.println(1000 % 100);
+        A xx = new test();
+        System.out.println(xx.getI());
+    }
+    
+    public int getI()
+    {
+        System.out.println("333333");
+        return i;
+    }
+    
+    public void setI(int i)
+    {
+        System.out.println("444444");
+        this.i = i;
+    }
+    
+}
+
+class A
+{
+    int i = 12;
+    
+    public int getI()
+    {
+        System.out.println("1111111");
+        return i;
+    }
+    
+    public void setI(int i)
+    {
+        System.out.println("2222222");
+        this.i = i;
     }
 }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<SecuritySignResponse>
+		<resultCode>200</resultCode>
+		<resultMsg>加密成功</resultMsg>
+		<signResult>7X4M/9Bm6UjFbRd8fu+J063kwQ+dJ0v4VkGMazTG3O1osT/tviahbJJN+QnfJBSZjW97gBLhtTd/&#xd;
+			j8v9LcFZcyD4cHKRJiqv1/gLR7+ykGrTR3hVfhvJKI5G0Vzs5fw84er7QqsRvL0s2uBCLzwYhVeb&#xd;
+			2byS1KkFurWKrudG4QQcli+CcPVdpQhK4IuUKochzP2w7al5IxytPQMqaMsNSpRyQiUpFkuT+wjf&#xd;
+			Xt4c3PepM6BeuEXEuhEvkYB+RJ1qi7A2fjFRY6SC3l5n2/1TZ2h1TYla476uUv3uERO39WV361Lj&#xd;
+			0KIbJAh4eMzwpCZw+k6JbKSuClRSYi8R8YeJqs4ssN8Bpnn44cyZlPI4vi9R1eEnobNkxAdeL505&#xd;
+			05dKQ4kjGe9dl65v2pO+1kGFYEjcznyPsOi2v8W7RrbceNRp4aVI2g+MJjIjj9BbbElkTQ7WOxu7&#xd;
+			YrOgqlg09xqKR91YmGEPwRDsCaCw8NdK+r1X9zemSBgORGNUu0ZUakByrV2wTm0CIrULv3Qzivw7&#xd;
+			v+rGHd7ovlbhAYP0aXTHggfK9R18eYVSREj2JQ3NLRbPJFqdOy6FbarEHHWQAmQNU6PbP72bGyjW&#xd;
+			4nits8SAiFH9io46rg5NHAVQqjVolSqa
+		</signResult>
+	</SecuritySignResponse>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Accounts>
+	<Account>
+		<code>100001</code>
+		<pass>123</pass>
+		<name>苍老师</name>
+		<money>1000000.00</money>
+	</Account>
+	<Account>
+		<code>100002</code>
+		<pass>123</pass>
+		<name>小泽老师</name>
+		<money>1000.00</money>
+	</Account>
+	<Account>
+		<code>10000</code>
+		<pass>000</pass>
+		<name>zhongbaohui</name>
+		<money>0001000</money>
+	</Account>
+	<Account>
+		<code>00001</code>
+		<pass>000</pass>
+		<name>zhongbaohui</name>
+		<money>0001000</money>
+	</Account>
+	<wang>
+		<www>121</www>
+	</wang>
+	<wang>www</wang>
+</Accounts>
